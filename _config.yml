@@ -1,13 +1,12 @@
-title: Wonderful page about me
-author: Me
+title: The Best QA
+author: Nikolay Zakharov
 email: me@beautiful-electricity.com
 description: > # this means to ignore newlines until "baseurl:"
   nice description
   for ants and not only for them
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  giant-whale # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-cayman
