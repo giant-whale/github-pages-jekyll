@@ -1,3 +1,3 @@
 layout: cv
-title: Zakharov Nikolay's CV
+title: Nikolay Zakharov CV
 permalink: /cv/
