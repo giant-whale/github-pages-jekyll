@@ -11,11 +11,3 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-cayman
-
-jekyll_analytics:
-  GoogleAnalytics:
-    id: G-CHJN97RFDE
-    anonymizeIp: false
-
-plugins:
-  - jekyll-analytics
