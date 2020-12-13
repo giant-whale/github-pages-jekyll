@@ -1,5 +1,5 @@
 ---
-layout: cv.html
+layout: cv
 title: Nikolay Zakharov CV
 permalink: /cv/
 ---
